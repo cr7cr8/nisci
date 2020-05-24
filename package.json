@@ -1,7 +1,6 @@
 {
-  "name": "webframe",
+  "name": "nisci",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -16,5 +15,14 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr7cr8/nisci.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cr7cr8/nisci/issues"
+  },
+  "homepage": "https://github.com/cr7cr8/nisci#readme",
+  "description": ""
 }
