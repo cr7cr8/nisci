@@ -13,10 +13,10 @@ if(!process.env.port){
     app.use(cors())
 }
 
-app.use("*",function(req,res){
+// app.use("*",function(req,res){
 
-    res.send("hihihi")
-})
+//     res.send("hihihi")
+// })
 
 console.log("aaa")
 
