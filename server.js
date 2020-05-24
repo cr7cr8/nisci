@@ -15,7 +15,7 @@ if(!process.env.port){
 
 
 
-
+console.log("aaa")
 
 
 app.use("/api/user",user)
